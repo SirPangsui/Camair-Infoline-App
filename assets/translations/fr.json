@@ -1,0 +1,147 @@
+{
+
+    "home": "Accueil",
+    "videos": "Vidéos",
+    "categories" : "Catégories",
+    "profile": "Profil",
+
+
+
+    "welcome to" : "Bienvenue sur",
+    "cameroons official news app" : " L'application officielle d'information du Cameroun",
+    "cameroons official news app the number one stop for accurate information" : "L'application officielle des actualités du Cameroun. L'arrêt numéro un pour des informations précises",
+    "sign in to continue": "Se connecter pour continuer",
+    "skip": "Sauter",
+    "done": "Terminé",
+
+    "intro-title1" : "Explorer les dernières nouvelles",
+    "intro-title2" : "Soyez les premiers à savoir",
+    "intro-title3" : "Sauvegarder les articles",
+    "intro-description1" : " Explorez les dernières nouvelles et les événements qui se produisent autour du Cameroun de la source la plus fiable en quelques minutes...",
+    "intro-description2" : " Abonnez-vous et soyez le premier à être informé de toute mise à jour au Cameroun et partagez avec vos amis...",
+    "intro-description3" : "Marquez, aimez et commentez vos articles préférés et partagez-les sur les médias sociaux...",
+    "get started" : "Commencez",
+    "don't have social accounts?" : "Vous n'avez pas de comptes sociaux ?",
+    "continue with email >>" : "Continuez avec Email >>",
+
+
+
+    "sign up": "S'inscrire",
+    "sign in": "Se connecter",
+    "follow the simple steps": "Suivez ces étapes simples",
+    "name": "Nom",
+    "already have an account?": "Vous avez déjà un compte ?",
+    "forgot password?": " Vous avez oublié votre mot de passe ?",
+    "reset your password": "Réinitialisez votre mot de passe",
+    "submit": " Soumettre",
+    "sign in successful!" : "Inscription réussie !",
+    "sign up successful!": "Inscription réussie !",
+    "don't have an account?" : "Vous n'avez pas de compte ?",
+
+
+
+    "search news" : " Recherche de nouvelles",
+    "popular news" : "Actualités populaires",
+    "recent news" : "Actualités récentes",
+    "explore": "Explorez",
+    "featured": "Tout voir",
+    "view all" : "En vedette",
+
+    "video articles" : "Articles vidéo",
+    "most recent": "Les plus récents",
+    "most popular": "Les plus populaires",
+    "no categories found": "Aucune catégorie trouvée",
+
+
+    "people like this" : "Les gens aiment ça",
+    "you might also like" : "Vous pourriez aussi aimer",
+    "no articles found" : "Aucun article trouvé",
+
+
+
+    "no internet" : "Pas de connexion internet !",
+    "no comments found" : "Aucun commentaire trouvé",
+    "be the first to comment" : "Soyez le premier à commenter",
+
+
+    "recent searchs" : "Recherches récentes",
+    "search-description" :  "Vous n'avez pas encore recherché d'articles. \n Essayez maintenant - nous allons vous aider !",
+    "we have found" : "Nous avons trouvé",
+    "try again" : "Essayez à nouveau !",
+
+
+
+    "bookmarks" : " Signets",
+    "sign in first" : "Connectez-vous d'abord",
+    "sign in to save your favourite articles here" : "Connectez-vous pour enregistrer vos nouvelles mises à jour préférées ici",
+    "save your favourite articles here" : "Enregistrez vos nouvelles mises à jour préférées ici",
+
+
+    "check your internet connection!" : " Vérifiez votre connexion Internet!",
+    "something is wrong. please try again." : "Il y a un problème. Veuillez réessayer.",
+
+
+    "cancel" : "Annuler",
+    "no sign in title" : "Identifiez-vous d'abord pour accéder à cette fonctionnalité",
+    "no sign in subtitle" : "Vous ne vous êtes pas encore identifié. Veuillez vous identifier pour déverrouiller cette fonctionnalité",
+
+
+    "comments" : "Commentaires",
+    "write a comment" : "Écrire un commentaire",
+
+
+    "no content" : "Aucun contenu trouvé",
+    "flag this comment" : "Marquer ce commentaire",
+    "unflag this comment" : "Annuler le drapeau de ce commentaire",
+    "report" : "Signaler",
+    "delete" : "Supprimer",
+    "report-info" : "Votre rapport a été envoyé avec succès aux admins.",
+    "report-info1" : "Merci pour votre rapport. Nous vous répondrons dans les 24 heures.",
+    "report-guest" : " La connexion est obligatoire!",
+    "report-guest1" : "Vous devez vous connecter pour signaler tout commentaire.",
+    "comment flagged" : "Ce commentaire a été signalé!",
+
+
+    "notifications" : "Notifications",
+    "notification details" : "Détails des notifications",
+    "important updates": "Mises à jour importantes",
+    "news notifications": "Notifications d'actualité",
+    "no notification": "Notifications trouvées",
+
+
+
+    "general settings" : "Paramètres généraux",
+    "dark mode" : "Mode foncé",
+    "login" : "Connexion",
+    "get notifications" : "Obtenir des notifications",
+    "contact us" : "Nous contacter",
+    "rate this app" : "Évaluer cette application",
+    "privacy policy" : "Politique de confidentialité",
+    "about us" : "A propos de nous",
+    "logout" : "Déconnexion",
+    "edit profile" : "Modifier le profil",
+    "update profile" : "Mettre à jour le profil",
+    "updated successfully" : "Mis à jour avec succès",
+    "enter new name" : "Entrez votre nouveau nom",
+
+    "logout title" : "Voulez-vous vraiment vous déconnecter de l'application ?",
+    "yes" : "Oui",
+    "no" : "Non",
+
+    "language" : "Langue",
+    "select language" : "Sélectionnez la langue",
+
+
+    "facebook page" : "Page Facebook",
+    "youtube channel" : "Chaîne Youtube",
+    "twitter": "Twitter",
+    "views": "Vues",
+
+    "check out this app to explore more android": "Consultez l'application Cmer Infoline disponible en téléchargement sur Google PlayStore pour en savoir plus. Lien vers l'application:",
+    "check out this app to explore more ios": "Découvrez Cmer Infoline disponible au téléchargement sur Appstore pour en savoir plus. Lien vers l'application :",
+
+    "presidential" : "Présidentielle",
+    "press release" : "Communiqué",
+    "administration": "Administration",
+    "employment": "Emploi"
+}

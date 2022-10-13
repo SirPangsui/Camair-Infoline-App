@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "79232036873",
+    "project_id": "cmer-infoline-39d1e",
+    "storage_bucket": "cmer-infoline-39d1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79232036873:android:57ab884a111b39641688d8",
+        "android_client_info": {
+          "package_name": "com.nchimsyteq.cmerinfoline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79232036873-3ivrv3l5ljjvbi3e8622t2ll3o7a0vhj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nchimsyteq.cmerinfoline",
+            "certificate_hash": "d3e5460513b6496f8e719108b0a33d2c301496b6"
+          }
+        },
+        {
+          "client_id": "79232036873-be7n4q5gvf4dngqqiiglff68qhp3hvtm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nchimsyteq.cmerinfoline",
+            "certificate_hash": "67d6cff0d7417dc84851a11194074b51390a7fbc"
+          }
+        },
+        {
+          "client_id": "79232036873-it090mp4p1u42a8ij6cpmcb9pp6hatd6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzO016zpGo3xKXL8XYJn0KoD4l1HRlobc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79232036873-it090mp4p1u42a8ij6cpmcb9pp6hatd6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
